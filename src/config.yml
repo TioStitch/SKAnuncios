@@ -1,0 +1,27 @@
+
+#task
+time: 1400
+period: 1200
+
+anunciar-death: true
+anunciar-death-message: '§eThe player <player> has death!'
+
+#Precisa do URL do seu webHook
+discord-tokem: ''
+anunciar-discord: false
+
+anunciar-respawn: true
+anunciar-respawn-message: '§eThe player <player> has respawned!'
+
+#Utilize \n para pular linha e § para colorir o chat.
+#If want a - announces repeat the string of a old announce.
+#If want only one announce repeat all announces equal.
+#Se quer menos anúncios faça alguns iguals aos outros.
+#Se quer apenas um deixe todos igual a ele.
+
+anuncio-1: '§6§lANÚNCIO \n §eAnúncio de teste'
+anuncio-2: '§6§lANÚNCIO \n §eAnúncio de teste'
+anuncio-3: '§6§lANÚNCIO \n §eAnúncio de teste'
+anuncio-4: '§6§lANÚNCIO \n §eAnúncio de teste'
+anuncio-5: '§6§lANÚNCIO \n §eAnúncio de teste'
+anuncio-6: '§6§lANÚNCIO \n §eAnúncio de teste'

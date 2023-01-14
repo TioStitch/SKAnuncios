@@ -1,0 +1,5 @@
+name: SKAnuncios
+version: 1.0
+author: TioStitch
+main: de.tiostitch.skanuncios.SKAnuncios
+description: Announces Plugin for Spigot.
